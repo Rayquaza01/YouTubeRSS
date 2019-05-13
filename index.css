@@ -1,0 +1,21 @@
+body {
+    background-color: #eeeeee;
+    color: #444444;
+    margin: 10% 10% 0 10%;
+    font-family: sans-serif;
+}
+
+code {
+    font-family: monospace;
+    padding: 2px;
+    background-color: #c0c0c0;
+}
+
+a {
+    color: #444444;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
